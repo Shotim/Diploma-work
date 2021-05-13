@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=DD1-1
+Removed Pin From Net: NetName=NetDD1_2 Pin=DD1-2
+Removed Pin From Net: NetName=NetDD1_3 Pin=DD1-3
+Removed Pin From Net: NetName=NetC7_2 Pin=DD1-4
+Removed Pin From Net: NetName=NetDD1_5 Pin=DD1-5
+Removed Pin From Net: NetName=NetDD1_6 Pin=DD1-6
+Removed Pin From Net: NetName=NetC5_2 Pin=DD1-7
+Removed Pin From Net: NetName=NetC6_2 Pin=DD1-8
+Removed Pin From Net: NetName=NetDD1_9 Pin=DD1-9
+Removed Pin From Net: NetName=NetDD1_10 Pin=DD1-10
+Removed Pin From Net: NetName=NetDD1_11 Pin=DD1-11
+Removed Pin From Net: NetName=NetDD1_12 Pin=DD1-12
+Removed Pin From Net: NetName=VCC Pin=DD1-16
+Change Component Description : Designator=ZQ1 Old Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead New Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead
+Change Component Description : Designator=ZQ2 Old Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead New Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead
+Change Component Description : Designator=C1 Old Description=1500AµF 16V Aluminum Electrolytic Capacitors Radial, Can 5000 Hrs @ 105A°C New Description=1500AµF 16V Aluminum Electrolytic Capacitors Radial, Can 5000 Hrs @ 105A°C
+Change Component Description : Designator=C2 Old Description=1500AµF 16V Aluminum Electrolytic Capacitors Radial, Can 5000 Hrs @ 105A°C New Description=1500AµF 16V Aluminum Electrolytic Capacitors Radial, Can 5000 Hrs @ 105A°C
+Change Component Description : Designator=DD3 Old Description=AVR AVRA® ATmega Microcontroller IC 8-Bit 20MHz 32KB _16K x 16_ FLASH 32-TQFP _7x7_ New Description=AVR AVRA® ATmega Microcontroller IC 8-Bit 20MHz 32KB _16K x 16_ FLASH 32-TQFP _7x7_
+Change Component Description : Designator=*T1 Old Description=RoHS Compliant New Description=RoHS Compliant | Industry-leading quality | Fast Switching | Low Profile _less than 1.1mm_ | P-Channel MOSFET | SOT-23 Footprint
+Added Component: Designator=DD1(SOIC16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CH340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CH340/Eaton/view-part/4701946/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetC7_2 Pin=DD1-4
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-5
+Added Pin To Net: NetName=NetDD1_6 Pin=DD1-6
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-7
+Added Pin To Net: NetName=NetC6_2 Pin=DD1-8
+Added Pin To Net: NetName=NetDD1_9 Pin=DD1-9
+Added Pin To Net: NetName=NetDD1_10 Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_11 Pin=DD1-11
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=VCC Pin=DD1-16
+Added Room: Name=Sheet1

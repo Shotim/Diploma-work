@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-17012020-086954";"";
+"REFERENCE";"ATMEGA328P-AU";"";
+"TraceParts.PartTitle";"Integrated Circuit Quad Flat Packages - ATMEGA328P-AN, ATMEGA328P-AU, ATMEGA328PB-ANR, ATMEGA328PB-AU";"";
+"TraceParts.InstanceId";"33-17012020-0869549J94NBN77COAJCXYGGR849HM8";"";
+"DESIGN";"Integrated Circuit Quad Flat Packages - ATMEGA328P-AU";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Microchip Technology Inc.";"";
+"TraceParts.PartVersion";"1.3.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MICROCHIP_TECHNOLOGY:33-17012020-086954";"";

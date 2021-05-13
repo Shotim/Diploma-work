@@ -1,0 +1,9 @@
+Change Component Comment : Designator=DD1 Old Comment=CH340 New Comment=*
+Change Component Description : Designator=ZQ1 Old Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead New Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead
+Change Component Description : Designator=ZQ2 Old Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead New Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead
+Change Component Description : Designator=C1 Old Description=1500AµF 16V Aluminum Electrolytic Capacitors Radial, Can 5000 Hrs @ 105A°C New Description=1500AµF 16V Aluminum Electrolytic Capacitors Radial, Can 5000 Hrs @ 105A°C
+Change Component Description : Designator=C2 Old Description=1500AµF 16V Aluminum Electrolytic Capacitors Radial, Can 5000 Hrs @ 105A°C New Description=1500AµF 16V Aluminum Electrolytic Capacitors Radial, Can 5000 Hrs @ 105A°C
+Change Component Description : Designator=DD3 Old Description=AVR AVRA® ATmega Microcontroller IC 8-Bit 20MHz 32KB _16K x 16_ FLASH 32-TQFP _7x7_ New Description=AVR AVRA® ATmega Microcontroller IC 8-Bit 20MHz 32KB _16K x 16_ FLASH 32-TQFP _7x7_
+Change Component Description : Designator=*T1 Old Description=RoHS Compliant New Description=RoHS Compliant | Industry-leading quality | Fast Switching | Low Profile _less than 1.1mm_ | P-Channel MOSFET | SOT-23 Footprint
+Added Member To Class: ClassName=Sheet1 Member=Component DD1 *
+Added Room: Name=Sheet1

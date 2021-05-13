@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPPRD500W80D1250H2700 New Footprint=SMA/DO-214AC_DTC
+Change Component Footprint: Designator=C2 Old Footprint=CAPPRD500W80D1250H2700 New Footprint=SMA/DO-214AC_DTC
+Change Component Comment : Designator=C1 Old Comment=UPM1C152MHD New Comment=*
+Change Component Comment : Designator=C2 Old Comment=UPM1C152MHD New Comment=*
+Added Room: Name=Sheet1

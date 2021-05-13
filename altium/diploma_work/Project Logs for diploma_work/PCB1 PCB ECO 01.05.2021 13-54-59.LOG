@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=VCC Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-N
+Removed Pin From Net: NetName=VCC Pin=C2-P
+Change Component Description : Designator=ZQ1 Old Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead New Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead
+Change Component Description : Designator=ZQ2 Old Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead New Description=16MHz A±30ppm Crystal 18pF 40 Ohms 2-SMD, No Lead
+Change Component Description : Designator=DD3 Old Description=AVR AVRA® ATmega Microcontroller IC 8-Bit 20MHz 32KB _16K x 16_ FLASH 32-TQFP _7x7_ New Description=AVR AVRA® ATmega Microcontroller IC 8-Bit 20MHz 32KB _16K x 16_ FLASH 32-TQFP _7x7_
+Change Component Description : Designator=*T1 Old Description=RoHS Compliant New Description=RoHS Compliant | Industry-leading quality | Fast Switching | Low Profile _less than 1.1mm_ | P-Channel MOSFET | SOT-23 Footprint
+Added Component: Designator=C1(CAPPRD500W80D1250H2700)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/UPM1C152MHD/Nichicon/view-part/2322603/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UPM1C152MHD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/UPM1C152MHD/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UPM1C152MHD/Nichicon/view-part/2322603/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPPRD500W80D1250H2700)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/UPM1C152MHD/Nichicon/view-part/2322603/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UPM1C152MHD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/UPM1C152MHD/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UPM1C152MHD/Nichicon/view-part/2322603/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-N
+Added Pin To Net: NetName=VCC Pin=C1-P
+Added Pin To Net: NetName=GND Pin=C2-N
+Added Pin To Net: NetName=VCC Pin=C2-P

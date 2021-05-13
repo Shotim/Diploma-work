@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-21012020-074416";"";
+"REFERENCE";"NCP1117ST50T3G";"";
+"TraceParts.PartTitle";"Integrated Circuit, SOT223 (3-Pin) - NCP1117ST33T3G, NCP1117ST50T3G";"";
+"TraceParts.InstanceId";"33-21012020-0744167J27VXSGKS3Q5TXUUN0MTO5FI";"";
+"DESIGN";"Integrated Circuit, SOT223 (3-Pin) - NCP1117ST50T3G";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ON Semiconductor";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ON_SEMICONDUCTOR:33-21012020-074416";"";

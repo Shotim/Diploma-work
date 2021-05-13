@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15052018-125886";"";
+"REFERENCE";"CVS-3108";"";
+"TraceParts.PartTitle";"CVS-3108 - 31.8 mm, Round Frame, 0.1 W, 8 Ohm, Neodymium Magnet, Mylar Cone, RoHS Compliant";"";
+"TraceParts.InstanceId";"10-15052018-125886QE2Q0UR96USC09RFNUJ6AFJN";"";
+"DESIGN";"31.8 mm, Round Frame, 0.1 W, 8 Ohm, Neodymium Magnet, Mylar Cone";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:/F_CUI/CUI.030/CUI.030.030/CUI.030.030.030/10-15052018-125886";"";

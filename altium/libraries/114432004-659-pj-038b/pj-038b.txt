@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15052018-123098";"";
+"REFERENCE";"PJ-038B";"";
+"TraceParts.PartTitle";"PJ-038B - 2.5 mm Center Pin, 2.5 A, Right Angle, Panel Mount, Dc Power Jack Connector, RoHS Compliant";"";
+"TraceParts.InstanceId";"10-15052018-12309854NXS8C26XG7K6G99F21K2L1D";"";
+"DESIGN";"2.5 mm Center Pin, 2.5 A, Right Angle, Panel Mount, Dc Power Jack Connector";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:/F_CUI/CUI.020/CUI.020.020/CUI.020.020.010/CUI.020.020.010.090/10-15052018-123098";"";
