@@ -60,16 +60,16 @@ void setup() {
 }
 
 void loop() {
-//  do {
-//    digitalWrite(TRIG_PIN, LOW);
-//    delayMicroseconds(5);
-//    digitalWrite(TRIG_PIN, HIGH);
-//    delayMicroseconds(10);
-//    digitalWrite(TRIG_PIN, LOW);
-//    duration = pulseIn(ECHO_PIN, HIGH);
-//    delay(250);
-//  } while (duration < 500);
-//  duration = 500;
+  do {
+    digitalWrite(TRIG_PIN, LOW);
+    delayMicroseconds(5);
+    digitalWrite(TRIG_PIN, HIGH);
+    delayMicroseconds(10);
+    digitalWrite(TRIG_PIN, LOW);
+    duration = pulseIn(ECHO_PIN, HIGH);
+    delay(250);
+  } while (duration < 500);
+  duration = 500;
   mainAlgorithm();
 }
 
